@@ -5,6 +5,7 @@ Create a Flask App which can scrape NASA websites for mars data, load into mongo
 
 ## Tools used:
 - Jupyter Notebook
+- MongoDB
 - BeautifulSoup
 - Splinter
 - Python
